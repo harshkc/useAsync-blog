@@ -4,6 +4,6 @@ Check the blogs here:
 
 [Hashnode](https://harshkc.hashnode.dev/a-quick-guide-to-testing-custom-react-hooks)
 
-Dev.to : coming soon
+[Dev.to](https://dev.to/harshkc/a-quick-guide-to-testing-custom-react-hooks-48ce)
 
 [Portfolio](https://harshkc.tech/blogs)
